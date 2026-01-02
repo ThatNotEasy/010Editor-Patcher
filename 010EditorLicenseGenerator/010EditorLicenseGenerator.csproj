@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>Resources\icon.ico</ApplicationIcon>
+    <AssemblyName>010EditorLicenseGenerator</AssemblyName>
+    <RootNamespace>EditorLicenseGenerator</RootNamespace>
+    <Version>1.0.0</Version>
+    <Authors>010Editor-Patcher</Authors>
+    <Description>010Editor License Generator GUI Application</Description>
+  </PropertyGroup>
+
+</Project>
